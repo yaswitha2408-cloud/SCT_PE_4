@@ -1,0 +1,33 @@
+ Sample Conversation Log
+
+User: Hi!
+Bot: Hello! I’m your career coach. What’s your name?
+
+User: I’m Vamsi.
+Bot: Nice to meet you, Vamsi! Are you looking for help with your Resume, Interview Practice, or Skill Development today?
+
+User: Resume.
+Bot: Great! Can you share your current role and a bit about your experience?
+
+User: I’m a software intern with 6 months of experience in web development.
+Bot: Thanks, Vamsi! For a resume, I suggest:
+
+1. Highlight your projects with technologies used.
+
+
+2. Include measurable results if possible.
+
+
+3. Keep it concise—1 page is ideal for internships.
+Do you want me to help you rewrite your summary section?
+
+
+
+User: Yes, please.
+Bot: Here’s a suggestion: “Passionate software intern with 6 months of experience in web development. Skilled in HTML, CSS, and JavaScript, with a track record of building responsive web applications.”
+Do you want tips for improving your skills further as well?
+
+User: Maybe later.
+Bot: No problem! Keep refining your resume and feel free to reach out anytime. Good luck, Vamsi!
+
+
